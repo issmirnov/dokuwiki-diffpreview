@@ -1,7 +1,7 @@
 base   diffpreview
-author Mikhail I. Izmestev
+author Mikhail I. Izmestev, Ivan Smirnov, Tilwa Qendov
 email  izmmishao5@gmail.com
-date   2014-07-16
+date   2019-04-09
 name   diffpreview
 desc   Adds button for diff preview in edit mode.
 url    http://dokuwiki.org/plugin:diffpreview
